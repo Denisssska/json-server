@@ -1,0 +1,132 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "details": [
+    {
+      "createdAt": "2024-03-30T21:58:50.852Z",
+      "name": "Miss Amanda Graham Sr.",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1200.jpg",
+      "length": 83,
+      "diameter": 6,
+      "favorite": false,
+      "checked": false,
+      "id": 1
+    },
+    {
+      "createdAt": "2024-03-30T19:31:17.437Z",
+      "name": "Scott Ondricka",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/792.jpg",
+      "length": 14,
+      "diameter": 73,
+      "favorite": false,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "createdAt": "2024-03-30T21:23:55.485Z",
+      "name": "Mr. Charlotte Haag",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/473.jpg",
+      "length": 78,
+      "diameter": 88,
+      "favorite": false,
+      "checked": false,
+      "id": 3
+    },
+    {
+      "createdAt": "2024-04-02T21:13:40.033Z",
+      "name": "Kay Volkman",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/945.jpg",
+      "length": 29,
+      "diameter": 49,
+      "favorite": false,
+      "checked": false,
+      "id": 4
+    },
+    {
+      "createdAt": "2024-04-02T22:35:43.235Z",
+      "name": "Miss Krista Hagenes",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/946.jpg",
+      "length": 15,
+      "diameter": 31,
+      "favorite": false,
+      "checked": false,
+      "id": 5
+    },
+    {
+      "createdAt": "2024-04-02T11:48:19.074Z",
+      "name": "Rhonda Ledner",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1059.jpg",
+      "length": 55,
+      "diameter": 27,
+      "favorite": false,
+      "checked": false,
+      "id": 6
+    },
+    {
+      "createdAt": "2024-04-02T20:56:49.844Z",
+      "name": "Maureen Kub",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/196.jpg",
+      "length": 41,
+      "diameter": 77,
+      "favorite": false,
+      "checked": false,
+      "id": 7
+    }
+    ,
+    {
+      "createdAt": "2024-04-02T21:13:40.033Z",
+      "name": "Kay Volkman",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/945.jpg",
+      "length": 29,
+      "diameter": 49,
+      "favorite": false,
+      "checked": false,
+      "id": 8
+    },
+    {
+      "createdAt": "2024-04-02T22:35:43.235Z",
+      "name": "Miss Krista Hagenes",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/946.jpg",
+      "length": 15,
+      "diameter": 31,
+      "favorite": false,
+      "checked": true,
+      "id": 9
+    },
+    {
+      "createdAt": "2024-04-02T11:48:19.074Z",
+      "name": "Rhonda Ledner",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1059.jpg",
+      "length": 55,
+      "diameter": 27,
+      "favorite": false,
+      "checked": true,
+      "id": 10
+    },
+    {
+      "createdAt": "2024-04-02T20:56:49.844Z",
+      "name": "Maureen Kub",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/196.jpg",
+      "length": 41,
+      "diameter": 77,
+      "favorite": false,
+      "checked": true,
+      "id": 11
+    }
+  ]
+}
