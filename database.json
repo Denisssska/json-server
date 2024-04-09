@@ -25,7 +25,8 @@
       "diameter": 6,
       "favorite": false,
       "checked": false,
-      "id": 1
+      "id": 1,
+      "inBasket":true
     },
     {
       "createdAt": "2024-03-30T19:31:17.437Z",
@@ -35,7 +36,8 @@
       "diameter": 73,
       "favorite": false,
       "checked": false,
-      "id": 2
+      "id": 2,
+      "inBasket":true
     },
     {
       "createdAt": "2024-03-30T21:23:55.485Z",
@@ -45,7 +47,8 @@
       "diameter": 88,
       "favorite": false,
       "checked": false,
-      "id": 3
+      "id": 3,
+      "inBasket":false
     },
     {
       "createdAt": "2024-04-02T21:13:40.033Z",
@@ -55,7 +58,8 @@
       "diameter": 49,
       "favorite": false,
       "checked": false,
-      "id": 4
+      "id": 4,
+      "inBasket":false
     },
     {
       "createdAt": "2024-04-02T22:35:43.235Z",
@@ -65,7 +69,8 @@
       "diameter": 31,
       "favorite": false,
       "checked": false,
-      "id": 5
+      "id": 5,
+      "inBasket":false
     },
     {
       "createdAt": "2024-04-02T11:48:19.074Z",
@@ -75,7 +80,8 @@
       "diameter": 27,
       "favorite": false,
       "checked": false,
-      "id": 6
+      "id": 6,
+      "inBasket":false
     },
     {
       "createdAt": "2024-04-02T20:56:49.844Z",
@@ -85,7 +91,8 @@
       "diameter": 77,
       "favorite": false,
       "checked": false,
-      "id": 7
+      "id": 7,
+      "inBasket":true
     }
     ,
     {
@@ -96,7 +103,8 @@
       "diameter": 49,
       "favorite": false,
       "checked": false,
-      "id": 8
+      "id": 8,
+      "inBasket":true
     },
     {
       "createdAt": "2024-04-02T22:35:43.235Z",
@@ -105,8 +113,9 @@
       "length": 15,
       "diameter": 31,
       "favorite": false,
-      "checked": true,
-      "id": 9
+      "checked": false,
+      "id": 9,
+      "inBasket":false
     },
     {
       "createdAt": "2024-04-02T11:48:19.074Z",
@@ -115,8 +124,9 @@
       "length": 55,
       "diameter": 27,
       "favorite": false,
-      "checked": true,
-      "id": 10
+      "checked": false,
+      "id": 10,
+      "inBasket": false
     },
     {
       "createdAt": "2024-04-02T20:56:49.844Z",
@@ -125,8 +135,9 @@
       "length": 41,
       "diameter": 77,
       "favorite": false,
-      "checked": true,
-      "id": 11
+      "checked": false,
+      "id": 11,
+      "inBasket":true
     }
   ]
 }
